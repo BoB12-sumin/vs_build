@@ -3,14 +3,7 @@ import * as go from "gojs";
 import { ReactDiagram } from "gojs-react";
 
 import "./App.css";
-import Pallete from "./components/Palette";
-
-import "./App.css";
-import React, { useEffect } from "react";
-import * as go from "gojs";
-import { ToolManager, Diagram } from "gojs";
-import { ReactDiagram } from "gojs-react";
-import Pallete from "./components/Palette";
+//import Pallete from "./components/Palette";
 
 function initDiagram() {
   const $ = go.GraphObject.make;
